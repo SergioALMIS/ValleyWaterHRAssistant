@@ -1,0 +1,11 @@
+streamlit 
+openai 
+langchain-community 
+langchain-openai 
+langchain-text-splitters 
+langchain-core 
+requests 
+beautifulsoup4 
+PyPDF2 
+PyMuPDF 
+faiss-cpu
